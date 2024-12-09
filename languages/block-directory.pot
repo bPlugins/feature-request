@@ -1,0 +1,306 @@
+# Copyright (C) 2024 bPlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Features Request 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/features-request\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-09T06:10:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: features-request\n"
+
+#. Plugin Name of the plugin
+#: features-request.php
+#: inc/class-fereq-admin-menu-add.php:91
+#: inc/class-fereq-admin-menu-add.php:92
+msgid "Features Request"
+msgstr ""
+
+#. Description of the plugin
+#: features-request.php
+msgid "Using this you can share your experience or request a feature."
+msgstr ""
+
+#. Author of the plugin
+#: features-request.php
+msgid "bPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: features-request.php
+msgid "http://bplugins.com"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:102
+#: inc/class-fereq-admin-menu-add.php:103
+msgid "Dashboard"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:110
+#: inc/class-fereq-admin-menu-add.php:111
+msgid "Manage Request"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:119
+#: inc/class-fereq-admin-menu-add.php:120
+msgid "Settings"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:220
+msgid "Style Settings"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:228
+msgid "Background Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:236
+msgid "All title font size"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:245
+msgid "All Title Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:253
+msgid "All Paragraph font size"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:260
+msgid "All Paragraph Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:269
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:276
+msgid "Button text Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:284
+msgid "Like Button Background Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:291
+msgid "Like Button text Color"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:299
+msgid "Style settings for the Features Request plugin."
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:340
+#: inc/class-fereq-admin-menu-add.php:348
+msgid "Set the font size in pixels."
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:426
+#: inc/settings_file/list-plugin-settings.php:25
+msgid "Serial No"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:429
+msgid "Report Type"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:432
+msgid "Report Title"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:435
+msgid "Report Email"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:438
+msgid "Reported Plugin"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:441
+msgid "Report Status"
+msgstr ""
+
+#: inc/class-fereq-admin-menu-add.php:444
+#: inc/settings_file/list-plugin-settings.php:31
+msgid "Action"
+msgstr ""
+
+#: inc/settings_file/advanced-settings.php:5
+msgid "Settings Saved"
+msgstr ""
+
+#: inc/settings_file/advanced-settings.php:19
+msgid "Save Changes"
+msgstr ""
+
+#: inc/settings_file/list-plugin-settings.php:28
+msgid "Product Name"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:4387
+msgid "Vertical"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:4388
+msgid "Horizontal"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:4392
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:4393
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:4463
+msgid "Add or Remove Items"
+msgstr ""
+
+#: dist/editor.js:4467
+msgid "Number:"
+msgstr ""
+
+#: dist/editor.js:4469
+msgid "Text:"
+msgstr ""
+
+#: dist/editor.js:4473
+msgid "Remove"
+msgstr ""
+
+#: dist/editor.js:4475
+msgid "Duplicate"
+msgstr ""
+
+#: dist/editor.js:4480
+msgid "Add New Card"
+msgstr ""
+
+#: dist/editor.js:4485
+msgid "Component Settings"
+msgstr ""
+
+#: dist/editor.js:4486
+#: dist/editor.js:4488
+msgid "Toggle?"
+msgstr ""
+
+#: dist/editor.js:4491
+msgid "Layout:"
+msgstr ""
+
+#: dist/editor.js:4498
+#: dist/editor.js:4533
+msgid "Some settings may change when layout will be changed."
+msgstr ""
+
+#: dist/editor.js:4505
+msgid "Width:"
+msgstr ""
+
+#: dist/editor.js:4506
+msgid "Keep width 0, to auto width."
+msgstr ""
+
+#: dist/editor.js:4510
+msgid "Custom Components"
+msgstr ""
+
+#: dist/editor.js:4512
+msgid "Columns:"
+msgstr ""
+
+#: dist/editor.js:4517
+msgid "Column Gap:"
+msgstr ""
+
+#: dist/editor.js:4519
+msgid "Row Gap:"
+msgstr ""
+
+#: dist/editor.js:4521
+msgid "Enter Image URL"
+msgstr ""
+
+#: dist/editor.js:4526
+msgid "Position:"
+msgstr ""
+
+#: dist/editor.js:4539
+msgid "Custom Style"
+msgstr ""
+
+#: dist/editor.js:4540
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:4542
+msgid "Typography:"
+msgstr ""
+
+#: dist/editor.js:4544
+msgid "Color:"
+msgstr ""
+
+#: dist/editor.js:4548
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:4552
+msgid "Margin:"
+msgstr ""
+
+#: dist/editor.js:4554
+msgid "Border:"
+msgstr ""
+
+#: dist/editor.js:4556
+msgid "Shadow:"
+msgstr ""
+
+#: dist/editor.js:4569
+msgid "Block Name in left"
+msgstr ""
+
+#: dist/editor.js:4570
+msgid "Block Name in center"
+msgstr ""
+
+#: dist/editor.js:4571
+msgid "Block Name in right"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block title"
+msgid "Features Request"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block description"
+msgid "Using this you can share your experience or request a feature"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key1"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key2"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key3"
+msgstr ""
